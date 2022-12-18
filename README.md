@@ -2,13 +2,15 @@ Next Authentication with nextauth.js
 
 1. First you can create a .env file and add the some configuration:
 
-GITHUB_ID= IN THE GITHUB SETTINGS
-GITHUB_SECRET= IN THE GITHUB SETTINGS
+GITHUB_ID=
 
-GOOGLE_ID= IN GOOGLE CONSOLE DEVELOPER
-GOOGLE_SECRET= IN GOOGLE CONSOLE DEVELOPER
+GITHUB_SECRET=
 
-DATABASE_URL= YOUR DB URI
+GOOGLE_ID=
+
+GOOGLE_SECRET=
+
+DATABASE_URL= db uri
 
 2. install prisma and the some configuration in the docs and try
 
